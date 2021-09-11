@@ -94,7 +94,7 @@ int evaluatePostfix(char* expression)
 int main()
 {
 	char expression[100];
-	printf("\n\t\t\t\tWelcome back Arjun\n");
+	printf("\n\t\t\t\tWelcome back Ketan\n");
 	printf("\nEnter the expression : \n");
 	gets(expression);
 	printf ("%d", evaluatePostfix(expression));
